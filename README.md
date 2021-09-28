@@ -1,4 +1,4 @@
-# herringbone-gear
+# herringbone-gear in IceSL
 
 --> this is the code for parametric herringbone gear.
 --> to run the code you will need the IceSL slicer, which is a open source.
